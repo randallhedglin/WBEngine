@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="com.wb.software.WBEngine"/>
+    <classEntry path="com.wb.software.WBMessenger"/>
+    <classEntry path="com.wb.software.WBLinearSmoother"/>
+    <classEntry path="com.wb.software.WBSaveBitmapDataAsPng"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
